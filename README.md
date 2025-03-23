@@ -7,8 +7,7 @@ Developed in Unity 6 (6000.0.28f1)
 
 Daily Rewards System in Unity
 
-This Unity project implements a Daily Rewards System using a ScrollView to display rewards for each day. 
-Rewards are stored in a ScriptableObject, and clicking a reward logs the reward details in the Console.
+This Unity project implements a Daily Rewards System using a ScrollView to display rewards for each day. Rewards are stored in a ScriptableObject, and clicking a reward logs the reward details in the Console.
 
 Features
      1. Vertically Scrollable UI: Displays daily rewards in a ScrollView.
